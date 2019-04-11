@@ -14,3 +14,11 @@ This is the type of motion tracking art that really impresses and captures my at
 
 [Here's a link to the piece](https://www.youtube.com/watch?v=Zm_oy1m-g3k)
 
+### Art Piece 2
+![Tobias Gremmler](images/kung_fu_pic1.JPG?raw=true "Tobias Gremmler")
+![Tobias Gremmler](images/kung_fu_pic2.JPG?raw=true "Tobias Gremmler")
+
+This piece of art was created by German digital artist Tobias Gremmler.  He chose to portray the Chinese martial art form in a digital sculpture that tracks the martial artist's movement.  His goal was to turn movement into structure and volume, which he successfuly does in this work.  Gremmler uses several variations of motion tracking to create a bunch of visualizations, from the building of dense structures, to the bursts of particles, Gremmler portrays the motion of the individual in a ton of interesting and new ways.  This piece uses a lot less color than does the piece I described above, but depicts a beautiful portrayl of the martial artist's movements (while using sound effects to add to the experience). Gremmler demonstrates the physics behind martial arts through the use of his visualization while creating a stunning image at the same time. This type of motion tracking is similar to what I plan on using to extend one of my projects because I believe that I want to use a person's motions to move some objects on my screen as well.
+
+[Here's a link to the pice](https://www.thisiscolossal.com/2016/05/kung-fu-visualizations/)
+
